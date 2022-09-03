@@ -1,6 +1,6 @@
-#Winter School 2021
-Technology Robotix Society 
-IIT KHARAGPUR
+						#Winter School 2021
+						Technology Robotix Society 
+						IIT KHARAGPUR
 					  
 					  
 This repository is to provide the solution to problems done by me during the winterschool 2021 at IIT Kharagpur.
