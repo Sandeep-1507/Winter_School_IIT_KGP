@@ -1,5 +1,5 @@
-						#Winter School 2021
-						Technology Robotix Society 
+					      #Winter School 2021
+					  Technology Robotix Society 
 						IIT KHARAGPUR
 					  
 					  
