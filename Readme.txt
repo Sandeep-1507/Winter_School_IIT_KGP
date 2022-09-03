@@ -1,6 +1,6 @@
-								#Winter School 2021
-							   Technology RObotix Society 
-								  IIT KHARAGPUR
+#Winter School 2021
+Technology Robotix Society 
+IIT KHARAGPUR
 					  
 					  
 This repository is to provide the solution to problems done by me during the winterschool 2021 at IIT Kharagpur.
@@ -15,5 +15,4 @@ This repository is to provide the solution to problems done by me during the win
 2.Images and videos for processing.
 3.Final folder consists of the final codes written that work perfectly fine for the given tasks.
 4.Some files with basic in there name are implementation examples.
-			  			
-					  		
+
